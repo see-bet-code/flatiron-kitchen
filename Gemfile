@@ -11,6 +11,7 @@ gem 'uglifier'
 gem 'bootsnap'
 gem 'actionpack'
 gem 'sqlite3', '~>1.3.6'
+gem 'rspec-collection_matchers'
 
 group :development, :test do
   gem 'rack_session_access'
